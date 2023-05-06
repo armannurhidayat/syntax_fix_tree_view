@@ -9,7 +9,7 @@
         Fix Header tree view
     """,
 
-    'author': "armannurhidayat7@gmail.com",
+    'author': "Arman Nur Hidayat",
     'website': "http://www.armannurhidayat.com",
 
     # Categories can be used to filter modules in modules listing
